@@ -1,3 +1,8 @@
+FORK NOTICE
+===========
+This is a personal fork of Visual Studio Code maintained by Sergio Morales and Misan.
+The original project is maintained by Microsoft at https://github.com/microsoft/vscode
+
 MIT License
 
 Copyright (c) 2015 - present Microsoft Corporation

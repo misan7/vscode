@@ -1,6 +1,8 @@
-# Contributing to VS Code
+# Contributing to Sergio Morales & Misan's VS Code Fork
 
-Welcome, and thank you for your interest in contributing to VS Code!
+Welcome, and thank you for your interest in this personal fork of VS Code maintained by Sergio Morales and Misan!
+
+> **Note:** This is a custom fork. For issues or contributions to the original VS Code project, please visit [microsoft/vscode](https://github.com/microsoft/vscode).
 
 There are several ways in which you can contribute, beyond writing code. The goal of this document is to provide a high-level overview of how you can get involved.
 
